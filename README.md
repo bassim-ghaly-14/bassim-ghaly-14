@@ -48,8 +48,8 @@ I believe great frontend development is about more than making interfaces look g
 ### State Management & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
 </p>
 
