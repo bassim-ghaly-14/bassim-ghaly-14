@@ -13,7 +13,7 @@ Building modern, responsive, and maintainable web experiences with React, Next.j
   <a href="https://www.linkedin.com/in/bassim-ghaly-b98536398/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://pinava.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
