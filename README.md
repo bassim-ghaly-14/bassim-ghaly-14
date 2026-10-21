@@ -66,7 +66,7 @@ I believe great frontend development is about more than making interfaces look g
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
-*Technologies are used across different projects, and I'm continuously expanding my skill set.*
+*I apply these technologies across my projects while continuously expanding my toolkit.*
 
 ## 📊 GitHub Overview
 
