@@ -99,7 +99,7 @@ A modern social application built with Next.js, React, and TypeScript, designed 
 
 **Tech:** Next.js · React · TypeScript · TanStack Query · MUI · Tailwind CSS
 
-[View on GitHub](https://github.com/bassim-ghaly-14)
+[View on GitHub](https://github.com/bassim-ghaly-14/pineup)
 
 ### 📝 Pine Notes — Minimal Notes App
 
@@ -126,13 +126,13 @@ An offline-oriented desktop application designed around practical cafe workflows
 
 **Tech:** React · TypeScript · Rust · Tauri · SQLite · Tailwind CSS
 
-[View Repository](https://github.com/bassim-ghaly-14/station-cafe)
+[View Repository](https://github.com/bassim-ghaly-14/station-cafe))
 
 ### 🌦️ Sky — Weather Application
 
 A weather application built as part of my practical learning and portfolio journey.
 
-[Explore My Repositories](https://github.com/bassim-ghaly-14?tab=repositories)
+[Explore My Repositories](https://github.com/bassim-ghaly-14/sky)
 
 ## 💡 Engineering Principles
 
