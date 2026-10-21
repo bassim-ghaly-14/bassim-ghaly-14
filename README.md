@@ -135,7 +135,17 @@ An offline-oriented desktop application designed around practical cafe workflows
 
 ### 🌦️ Sky — Weather Application
 
-A weather application built as part of my practical learning and portfolio journey.
+A modern weather application built to provide users with an intuitive way to explore weather conditions through a clean and responsive interface.
+
+Developed as part of my hands-on learning journey, Sky focuses on frontend development, user experience, and building practical applications that combine functionality with thoughtful UI design.
+
+- 🌤️ Presents weather information through a clear and user-friendly interface.
+- 📱 Designed with responsive layouts for different screen sizes.
+- 🎨 Focuses on visual clarity, intuitive interactions, and a consistent UI.
+- ⚙️ Provides practical experience in building interactive, data-driven web applications.
+- 🧩 Reinforces frontend development skills through real-world implementation and problem-solving.
+
+**Tech:** [Add the technologies used in this project]
 
 [View Repository](https://github.com/bassim-ghaly-14/sky)
 
@@ -151,10 +161,11 @@ A weather application built as part of my practical learning and portfolio journ
 
 ## 📚 Currently Learning
 
-- Deepening my React, Next.js, and TypeScript knowledge.
-- Improving frontend architecture and component design.
-- Strengthening accessibility and testing practices.
-- Exploring Rust and Tauri for desktop applications.
+- 🏗️ **Frontend Architecture:** Designing scalable, reusable, and maintainable component systems.
+- 🧪 **Code Quality & Testing:** Improving test coverage, code reliability, and static analysis results.
+- ♿ **Web Accessibility:** Building inclusive interfaces with accessible interactions and keyboard navigation.
+- 🦀 **Rust & Tauri:** Exploring Rust fundamentals and developing offline-first desktop applications.
+- ⚡ **Performance Optimization:** Improving application performance, responsiveness, and user experience.
 
 ## 🤝 Let's Connect
 
