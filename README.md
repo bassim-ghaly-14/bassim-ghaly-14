@@ -61,9 +61,9 @@ I believe great frontend development is about more than making interfaces look g
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vite,vitest,vscode,postman,figma,docker" alt="Git, GitHub, Vite, Vitest, VS Code, Postman, Figma, and Docker" />
+  <img src="https://skillicons.dev/icons?i=tauri,rust" alt="Tauri and Rust" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://skillicons.dev/icons?i=tauri,rust" alt="Tauri and Rust" />
 </p>
 
 *Technologies are used across different projects, and I'm continuously expanding my skill set.*
