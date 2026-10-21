@@ -64,6 +64,9 @@ I believe great frontend development is about more than making interfaces look g
   <img src="https://skillicons.dev/icons?i=tauri,rust" alt="Tauri and Rust" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/npx-CB3837?style=flat&logo=npm&logoColor=white" alt="npx" />
+  <img src="https://img.shields.io/badge/Cargo-000000?style=flat&logo=rust&logoColor=white" alt="Cargo" />
 </p>
 
 *I apply these technologies across my projects while continuously expanding my toolkit.*
