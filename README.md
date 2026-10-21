@@ -61,6 +61,25 @@ I believe great frontend development is about more than making interfaces look g
 
 *Technologies are used across different projects, and I'm continuously expanding my toolkit.*
 
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/bassim-ghaly-14">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bassim-ghaly-14&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Bassim's GitHub Stats" />
+</a>
+
+<a href="https://github.com/bassim-ghaly-14">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassim-ghaly-14&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Bassim's Most Used Languages" />
+</a>
+
+<a href="https://github.com/bassim-ghaly-14">
+  <img src="https://streak-stats.demolab.com/?user=bassim-ghaly-14&hide_border=true&theme=transparent" alt="Bassim's GitHub Contribution Streak" />
+</a>
+
+</div>
+
 ## 🚀 Featured Projects
 
 ### 🌲 PineUp — Social Web Application
