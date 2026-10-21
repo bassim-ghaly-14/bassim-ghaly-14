@@ -50,9 +50,10 @@ I believe great frontend development is about more than making interfaces look g
 ### State Management & Data Transfer
 
 <p>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="TanStack Query" />
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios" />
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
 </p>
 
@@ -61,10 +62,11 @@ I believe great frontend development is about more than making interfaces look g
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vite,vitest,vscode,postman,figma,docker" alt="Git, GitHub, Vite, Vitest, VS Code, Postman, Figma, and Docker" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" alt="Stripe" />
   <img src="https://skillicons.dev/icons?i=tauri,rust" alt="Tauri and Rust" />
 </p>
 
-*Technologies are used across different projects, and I'm continuously expanding my toolkit.*
+*Technologies are used across different projects, and I'm continuously expanding my skill set.*
 
 ## 📊 GitHub Overview
 
