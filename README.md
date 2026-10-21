@@ -22,7 +22,7 @@ Building modern, responsive, and maintainable web experiences with React, Next.j
 
 ---
 
-## 👋 About Me
+## 🗂️ About Me
 
 I'm a self-taught developer based in Cairo, Egypt, passionate about building modern web applications and creating thoughtful user experiences.
 
@@ -34,7 +34,7 @@ I believe great frontend development is about more than making interfaces look g
 - ⚛️ **Core stack:** React, Next.js, and TypeScript
 - 🎨 **Interests:** UI engineering, responsive design, and component architecture
 - 🧪 **Quality:** Testing, accessibility, and static analysis
-- 🌱 **Currently exploring:** Rust and desktop development with Tauri
+- 🔭 **Currently exploring:** Rust and desktop development with Tauri
 - 💼 **Goal:** Find a Frontend Developer opportunity and keep growing as an engineer
 
 ## 🛠️ Tech Stack
